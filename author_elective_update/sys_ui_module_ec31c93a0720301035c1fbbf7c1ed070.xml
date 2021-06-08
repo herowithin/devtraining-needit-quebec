@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="testyyy">ec31c93a0720301035c1fbbf7c1ed06d</application>
+        <filter/>
+        <name>testyyys</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_58872_needit.testyyy_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 13:51:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ec31c93a0720301035c1fbbf7c1ed070</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testyyys</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_module_ec31c93a0720301035c1fbbf7c1ed070</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-08 13:51:26</sys_updated_on>
+        <table>x_58872_needit_testyyy</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>55811c20dbf5c05052dd2f17d49619e4</instance_id>
+        <instance_name>dev96219</instance_name>
+        <name>sys_ui_module_ec31c93a0720301035c1fbbf7c1ed070</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="testyyy">ec31c93a0720301035c1fbbf7c1ed06d</application><filter/><name>testyyys</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_58872_needit.testyyy_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-08 13:51:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ec31c93a0720301035c1fbbf7c1ed070</sys_id><sys_mod_count>0</sys_mod_count><sys_name>testyyys</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_module_ec31c93a0720301035c1fbbf7c1ed070</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-08 13:51:26</sys_updated_on><table>x_58872_needit_testyyy</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1670541958</payload_hash>
+        <record_name>testyyys</record_name>
+        <reverted_from/>
+        <source>81dd15fd077b201035c1fbbf7c1ed0b3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 13:51:26</sys_created_on>
+        <sys_id>ac31c93a0720301035c1fbbf7c1ed073</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179ebe46ec90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-08 13:51:26</sys_updated_on>
+        <type>Module</type>
+        <update_guid>e431c93af12030105ceef5d72b2b3273</update_guid>
+        <update_guid_history>e431c93af12030105ceef5d72b2b3273:1670541958</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 13:52:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>0f437942b99f4d1f9dd8adaa2f972679</sys_id>
+        <sys_metadata>ec31c93a0720301035c1fbbf7c1ed070</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testyyys</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_ec31c93a0720301035c1fbbf7c1ed070</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_ec31c93a0720301035c1fbbf7c1ed070">ac31c93a0720301035c1fbbf7c1ed073</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-08 13:52:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

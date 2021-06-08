@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>testyyy</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_58872_needit_testyyy</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 13:51:26</sys_created_on>
+        <sys_id>b511493a0720301035c1fbbf7c1ed0ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testyyy</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_object_b511493a0720301035c1fbbf7c1ed0ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-08 13:51:26</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_58872_needit.testyyy_user" name="x_58872_needit.testyyy_user">1031c13a0720301035c1fbbf7c1ed0c9</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>55811c20dbf5c05052dd2f17d49619e4</instance_id>
+        <instance_name>dev96219</instance_name>
+        <name>sys_db_object_b511493a0720301035c1fbbf7c1ed0ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>testyyy</label><live_feed_enabled>false</live_feed_enabled><name>x_58872_needit_testyyy</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-08 13:51:26</sys_created_on><sys_id>b511493a0720301035c1fbbf7c1ed0ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>testyyy</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_db_object_b511493a0720301035c1fbbf7c1ed0ce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-08 13:51:26</sys_updated_on><update_access>false</update_access><user_role display_value="x_58872_needit.testyyy_user" name="x_58872_needit.testyyy_user">1031c13a0720301035c1fbbf7c1ed0c9</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>2099485182</payload_hash>
+        <record_name>testyyy</record_name>
+        <reverted_from/>
+        <source>81dd15fd077b201035c1fbbf7c1ed0b3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 13:51:29</sys_created_on>
+        <sys_id>0131c93a0720301035c1fbbf7c1ed0cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179ebe477d40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-08 13:51:29</sys_updated_on>
+        <type>Table</type>
+        <update_guid>4931c93a89203010076bcf6caf1d31ce</update_guid>
+        <update_guid_history>4931c93a89203010076bcf6caf1d31ce:2099485182</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 13:52:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>805ebbf0c7a94460908d2d24e5828640</sys_id>
+        <sys_metadata>b511493a0720301035c1fbbf7c1ed0ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testyyy</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_db_object_b511493a0720301035c1fbbf7c1ed0ce</sys_update_name>
+        <sys_update_version display_value="sys_db_object_b511493a0720301035c1fbbf7c1ed0ce">0131c93a0720301035c1fbbf7c1ed0cf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-08 13:52:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
